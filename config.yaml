@@ -1,0 +1,15 @@
+alert2_after_more_seconds: 2.0
+allow_alert_on_low_quality: true
+camera_index: 0
+closed_min_seconds: 1.2
+ear_closed_threshold: 0.23139952120888677
+fps_target: 30
+majority_frames: 3
+min_brightness: 30
+min_face_ratio: 0.05
+smoothing_alpha: 0.4
+ui_scale: 1.4
+yawn_notice_cooldown_sec: 5.0
+yawn_notice_min_show_sec: 5.0
+yawn_series_needed: 3
+yawn_series_window_sec: 60
